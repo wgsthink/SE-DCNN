@@ -1,1 +1,1 @@
-# Multi-scale DCNN with Dynamic Weight and Part Cross-entropy Loss for Skin Lesion Diagnosis
+# A Scale-aware and Effect-aware DCNN Model for Skin Lesion Diagnosis
